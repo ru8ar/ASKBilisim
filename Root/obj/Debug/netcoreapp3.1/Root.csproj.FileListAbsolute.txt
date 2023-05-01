@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\bin\Debug\netcoreapp3.1\Root.deps.json
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\bin\Debug\netcoreapp3.1\Root.dll
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\bin\Debug\netcoreapp3.1\Root.pdb
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\obj\Debug\netcoreapp3.1\Root.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\obj\Debug\netcoreapp3.1\Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\obj\Debug\netcoreapp3.1\Root.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\obj\Debug\netcoreapp3.1\Root.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\obj\Debug\netcoreapp3.1\Root.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\obj\Debug\netcoreapp3.1\Root.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\obj\Debug\netcoreapp3.1\Root.dll
+C:\Users\Lenovo\source\repos\ASKBilisim\Root\obj\Debug\netcoreapp3.1\Root.pdb

@@ -1,0 +1,48 @@
+﻿
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item"><a asp-action="Index">Projeler</a></li>
+    <li class="breadcrumb-item active">Proje Listesi</li>
+
+</ol>
+
+<p>
+    <a class="btn btn-outline-dark" asp-action="Create">Yeni Ekle</a>
+</p>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Proje Adı
+            </th>
+
+            <th>
+                İşlemler
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                Ask Bilişim
+            </td>
+
+            <td>
+                <a title="Günclle" class="btn btn-sm btn-outline-warning">
+                    <i class="fas fa-pencil-alt"></i>
+                </a>
+
+                <a title="Detay" class="btn btn-sm btn-outline-info">
+                    <i class="fas fa-search"></i>
+                </a>
+                   
+
+                <a title="Sil" class="btn btn-sm btn-outline-danger">
+                        <i class="fas fa-trash"></i>
+                </a>
+                    
+            </td>
+        </tr>
+    </tbody>
+</table>
